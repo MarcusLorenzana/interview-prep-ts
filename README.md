@@ -1,4 +1,4 @@
-# Fieldwire Interview Practice Kit
+# Interview Practice Kit
 
 This repo is organized into one folder per live-coding problem, modeled after a realistic TypeScript engineering interview. Each folder contains a concise prompt, execution constraints, and a starter file so you can code out loud and explain your thinking without needing full project setup.
 
